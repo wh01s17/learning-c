@@ -1,0 +1,22 @@
+# Archivos objeto y de dependencias
+*.o
+*.obj
+*.d
+
+# Bibliotecas compiladas
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Ejecutables y directorios de compilación
+*.exe
+*.out
+build/
+
+# Archivos de depuración
+*.dSYM/
+*.pdb
+*.ilk
